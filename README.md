@@ -1,13 +1,25 @@
-# UNO Java POO 
+UNO Game – Java OOP Project
+* Overview
+Console-based UNO game developed in Java as part of an Object-Oriented Programming (OOP) university project.
 
-Projet académique réalisé en 1ère année informatique.
+# Objectives
+Apply OOP principles (Encapsulation, Inheritance, Polymorphism, Abstraction)
+Build a modular and clean Java application
 
-## Description
-Implémentation du jeu UNO en Java en respectant la programmation orientée objet.
+# Structure
+Card – Represents a UNO card
+Deck – Manages the deck
+Player – Manages player hand
+Game – Controls game logic
 
-## Technologies
+# Features
+Console gameplay
+Action and Wild cards
+Turn-based system
+Winner detection
+
+# Technologies
 - Java
+- OOP
 - Eclipse
 
-## Auteur
-Malak
